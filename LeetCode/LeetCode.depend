@@ -319,3 +319,136 @@
 1438062957 source:e:\leetcode\leetcode\leetcode\plus one.cpp
 	<vector>
 
+1438062997 source:e:\leetcode\leetcode\leetcode\min path sum.cpp
+	<vector>
+
+1438063635 source:e:\leetcode\leetcode\leetcode\unique paths ii.cpp
+	<vector>
+	<stdlib.h>
+
+1438063677 source:e:\leetcode\leetcode\leetcode\unique paths.cpp
+	<stdlib.h>
+
+1438063737 source:e:\leetcode\leetcode\leetcode\rotate list.cpp
+	<iostream>
+
+1438063781 source:e:\leetcode\leetcode\leetcode\spiral matrix ii.cpp
+	<vector>
+
+1438063897 source:e:\leetcode\leetcode\leetcode\length of last word.cpp
+	<iostream>
+	<cstring>
+
+1438063936 source:e:\leetcode\leetcode\leetcode\jump game.cpp
+	<vector>
+
+1438063983 source:e:\leetcode\leetcode\leetcode\spiral matrix.cpp
+	<vector>
+
+1438064044 source:e:\leetcode\leetcode\leetcode\maximum subarray.cpp
+	<vector>
+	<limits.h>
+
+1438064132 source:e:\leetcode\leetcode\leetcode\pow.cpp
+	<stdlib.h>
+
+1438064207 source:e:\leetcode\leetcode\leetcode\anagrams.cpp
+	<vector>
+	<string>
+	<map>
+	<algorithm>
+
+1438064257 source:e:\leetcode\leetcode\leetcode\rotate image.cpp
+	<vector>
+
+1438064324 source:e:\leetcode\leetcode\leetcode\multiply strings.cpp
+	<string>
+	<iostream>
+	<stdlib.h>
+
+1438064684 source:e:\leetcode\leetcode\leetcode\combination sum.cpp
+	<vector>
+	<algorithm>
+
+1438064764 source:e:\leetcode\leetcode\leetcode\valid skudo.cpp
+	<vector>
+	<iostream>
+
+1438064807 source:e:\leetcode\leetcode\leetcode\search insert position.cpp
+	<vector>
+
+1438064846 source:e:\leetcode\leetcode\leetcode\search for a range.cpp
+	<vector>
+
+1438064882 source:e:\leetcode\leetcode\leetcode\divide two integers.cpp
+	<limits.h>
+
+1438064934 source:e:\leetcode\leetcode\leetcode\implement strstr().cpp
+	<string>
+
+1438064960 source:e:\leetcode\leetcode\leetcode\remove element.cpp
+
+1438064987 source:e:\leetcode\leetcode\leetcode\remove duplicates from sorted array.cpp
+
+1438065053 source:e:\leetcode\leetcode\leetcode\swap nodes in pairs.cpp
+	<iostream>
+
+1438065100 source:e:\leetcode\leetcode\leetcode\generate parentheses.cpp
+	<vector>
+	<string>
+
+1438065159 source:e:\leetcode\leetcode\leetcode\merge two sorted lists.cpp
+	<iostream>
+
+1438065218 source:e:\leetcode\leetcode\leetcode\valid parentheses.cpp
+	<string>
+	<stack>
+
+1438065417 source:e:\leetcode\leetcode\leetcode\4sum.cpp
+	<vector>
+	<algorithm>
+
+1438065465 source:e:\leetcode\leetcode\leetcode\letter combinations of a phone number.cpp
+	<vector>
+	<string>
+
+1438065533 source:e:\leetcode\leetcode\leetcode\3sum closest.cpp
+	<vector>
+	<stdlib.h>
+	<algorithm>
+
+1438065585 source:e:\leetcode\leetcode\leetcode\3sum.cpp
+	<vector>
+	<algorithm>
+
+1438065635 source:e:\leetcode\leetcode\leetcode\longest common prefix.cpp
+	<string>
+	<vector>
+
+1438065681 source:e:\leetcode\leetcode\leetcode\container with most water .cpp
+	<vector>
+
+1438065706 source:e:\leetcode\leetcode\leetcode\palindrome number.cpp
+
+1438065758 source:e:\leetcode\leetcode\leetcode\atoi.cpp
+	<string>
+	<limits.h>
+
+1438065809 source:e:\leetcode\leetcode\leetcode\reverse integer.cpp
+	<stdlib.h>
+	<limits.h>
+
+1438065853 source:e:\leetcode\leetcode\leetcode\longest palindromic substring.cpp
+	<string>
+
+1438065922 source:e:\leetcode\leetcode\leetcode\longest substring without repeating characters.cpp
+	<string>
+	<memory.h>
+
+1438065990 source:e:\leetcode\leetcode\leetcode\add two numbers.cpp
+	<iostream>
+
+1438066036 source:e:\leetcode\leetcode\leetcode\two sum.cpp
+	<vector>
+	<map>
+
