@@ -150,3 +150,31 @@
 1438046744 source:e:\leetcode\leetcode\leetcode\sum_root_leaf.cpp
 	<iostream>
 
+1438046832 source:e:\leetcode\leetcode\leetcode\word_ladder.cpp
+	<string>
+	<unordered_set>
+	<queue>
+
+1438047123 source:e:\leetcode\leetcode\leetcode\valid_palindrome.cpp
+	<string>
+	<algorithm>
+
+1438047184 source:e:\leetcode\leetcode\leetcode\best time to buy and sell stock ii.cpp
+	<vector>
+
+1438047237 source:e:\leetcode\leetcode\leetcode\best time to buy and sell stock.cpp
+	<vector>
+
+1438047292 source:e:\leetcode\leetcode\leetcode\triangle.cpp
+	<vector>
+
+1438047345 source:e:\leetcode\leetcode\leetcode\pascal's triangle ii.cpp
+	<vector>
+
+1438047384 source:e:\leetcode\leetcode\leetcode\pascal's triangle.cpp
+	<vector>
+
+1438047459 source:e:\leetcode\leetcode\leetcode\populating next right pointers in each node.cpp
+	<iostream>
+	<queue>
+
