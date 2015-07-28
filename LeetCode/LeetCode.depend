@@ -74,3 +74,79 @@
 	<iostream>
 	<cmath>
 
+1438045288 source:e:\leetcode\leetcode\leetcode\min_stack.cpp
+	<stack>
+
+1438045472 source:e:\leetcode\leetcode\leetcode\find_min_in_rotate.cpp
+	<vector>
+
+1438045531 source:e:\leetcode\leetcode\leetcode\maximum_product_subarray.cpp
+	<vector>
+
+1438045608 source:e:\leetcode\leetcode\leetcode\reverse_words_in_string.cpp
+	<string>
+	<iostream>
+	<algorithm>
+
+1438045686 source:e:\leetcode\leetcode\leetcode\evaluate_reverse_polish_notation.cpp
+	<stack>
+	<string>
+	<vector>
+
+1438045795 source:e:\leetcode\leetcode\leetcode\max_points_on_line.cpp
+	<vector>
+	<unordered_map>
+
+1438045933 source:e:\leetcode\leetcode\leetcode\insertion_sort_list.cpp
+	<iostream>
+
+1438045855 source:e:\leetcode\leetcode\leetcode\sort_list.cpp
+	<iostream>
+
+1438046008 source:e:\leetcode\leetcode\leetcode\btree_postorder.cpp
+	<iostream>
+	<vector>
+
+1438046091 source:e:\leetcode\leetcode\leetcode\btree_preorder.cpp
+	<iostream>
+	<vector>
+	<stack>
+
+1438046149 source:e:\leetcode\leetcode\leetcode\reorder_list.cpp
+	<iostream>
+
+1438046213 source:e:\leetcode\leetcode\leetcode\linked_list_cycle.cpp
+	<iostream>
+
+1438046262 source:e:\leetcode\leetcode\leetcode\list_cycle_1.cpp
+	<iostream>
+
+1438046324 source:e:\leetcode\leetcode\leetcode\word_break.cpp
+	<string>
+	<unordered_set>
+
+1438046358 source:e:\leetcode\leetcode\leetcode\single_num.cpp
+
+1438046403 source:e:\leetcode\leetcode\leetcode\single_num2.cpp
+
+1438046445 source:e:\leetcode\leetcode\leetcode\gas_station.cpp
+	<vector>
+
+1438046536 source:e:\leetcode\leetcode\leetcode\clone_gra.cpp
+	<vector>
+	<queue>
+	<iostream>
+	<map>
+
+1438046616 source:e:\leetcode\leetcode\leetcode\palindrome_partitioning.cpp
+	<string>
+	<vector>
+	<algorithm>
+
+1438046677 source:e:\leetcode\leetcode\leetcode\surround_region.cpp
+	<vector>
+	<queue>
+
+1438046744 source:e:\leetcode\leetcode\leetcode\sum_root_leaf.cpp
+	<iostream>
+
