@@ -1,0 +1,321 @@
+# depslib dependency file v1.0
+1438043567 source:e:\leetcode\leetcode\leetcode\isomorphic_strings.cpp
+	<string>
+	<map>
+
+1438043640 source:e:\leetcode\leetcode\leetcode\count_prime.cpp
+
+1438060211 source:e:\leetcode\leetcode\leetcode\main.cpp
+
+1438043783 source:e:\leetcode\leetcode\leetcode\remove_linkedlist_ele.cpp
+	<iostream>
+	<stdlib.h>
+
+1438043835 source:e:\leetcode\leetcode\leetcode\happy_num.cpp
+	<set>
+
+1438043882 source:e:\leetcode\leetcode\leetcode\bitwise_and.cpp
+
+1438043936 source:e:\leetcode\leetcode\leetcode\numbers_of_island.cpp
+	<vector>
+
+1438044158 source:e:\leetcode\leetcode\leetcode\binary_tree_right.cpp
+	<iostream>
+	<vector>
+
+1438044243 source:e:\leetcode\leetcode\leetcode\house_robber.cpp
+	<vector>
+
+1438044329 source:e:\leetcode\leetcode\leetcode\number_of_one.cpp
+	<iostream>
+
+1438044373 source:e:\leetcode\leetcode\leetcode\reverse_bits.cpp
+	<iostream>
+
+1438044433 source:e:\leetcode\leetcode\leetcode\rotate_array.cpp
+	<algorithm>
+
+1438044497 source:e:\leetcode\leetcode\leetcode\repeat_dna.cpp
+	<vector>
+	<string>
+	<map>
+
+1438044661 source:e:\leetcode\leetcode\leetcode\largest_num.cpp
+	<string>
+	<vector>
+	<cmath>
+	<algorithm>
+
+1438044702 source:e:\leetcode\leetcode\leetcode\dungeon_game.cpp
+	<vector>
+
+1438044806 source:e:\leetcode\leetcode\leetcode\binary_search_iterator.cpp
+	<iostream>
+	<stack>
+
+1438044841 source:e:\leetcode\leetcode\leetcode\factorial_trailing_zeroes.cpp
+
+1438044905 source:e:\leetcode\leetcode\leetcode\excel_colum.cpp
+	<string>
+
+1438044955 source:e:\leetcode\leetcode\leetcode\majority_ele.cpp
+	<vector>
+
+1438045022 source:e:\leetcode\leetcode\leetcode\excel_colum_title.cpp
+	<string>
+
+1438045075 source:e:\leetcode\leetcode\leetcode\compare_version.cpp
+	<string>
+
+1438045128 source:e:\leetcode\leetcode\leetcode\find_peak.cpp
+	<vector>
+
+1438045240 source:e:\leetcode\leetcode\leetcode\intersection_of_two_list.cpp
+	<iostream>
+	<cmath>
+
+1438045288 source:e:\leetcode\leetcode\leetcode\min_stack.cpp
+	<stack>
+
+1438045472 source:e:\leetcode\leetcode\leetcode\find_min_in_rotate.cpp
+	<vector>
+
+1438045531 source:e:\leetcode\leetcode\leetcode\maximum_product_subarray.cpp
+	<vector>
+
+1438045608 source:e:\leetcode\leetcode\leetcode\reverse_words_in_string.cpp
+	<string>
+	<iostream>
+	<algorithm>
+
+1438045686 source:e:\leetcode\leetcode\leetcode\evaluate_reverse_polish_notation.cpp
+	<stack>
+	<string>
+	<vector>
+
+1438045795 source:e:\leetcode\leetcode\leetcode\max_points_on_line.cpp
+	<vector>
+	<unordered_map>
+
+1438045933 source:e:\leetcode\leetcode\leetcode\insertion_sort_list.cpp
+	<iostream>
+
+1438045855 source:e:\leetcode\leetcode\leetcode\sort_list.cpp
+	<iostream>
+
+1438046008 source:e:\leetcode\leetcode\leetcode\btree_postorder.cpp
+	<iostream>
+	<vector>
+
+1438046091 source:e:\leetcode\leetcode\leetcode\btree_preorder.cpp
+	<iostream>
+	<vector>
+	<stack>
+
+1438046149 source:e:\leetcode\leetcode\leetcode\reorder_list.cpp
+	<iostream>
+
+1438046213 source:e:\leetcode\leetcode\leetcode\linked_list_cycle.cpp
+	<iostream>
+
+1438046262 source:e:\leetcode\leetcode\leetcode\list_cycle_1.cpp
+	<iostream>
+
+1438046324 source:e:\leetcode\leetcode\leetcode\word_break.cpp
+	<string>
+	<unordered_set>
+
+1438046358 source:e:\leetcode\leetcode\leetcode\single_num.cpp
+
+1438046403 source:e:\leetcode\leetcode\leetcode\single_num2.cpp
+
+1438046445 source:e:\leetcode\leetcode\leetcode\gas_station.cpp
+	<vector>
+
+1438046536 source:e:\leetcode\leetcode\leetcode\clone_gra.cpp
+	<vector>
+	<queue>
+	<iostream>
+	<map>
+
+1438046616 source:e:\leetcode\leetcode\leetcode\palindrome_partitioning.cpp
+	<string>
+	<vector>
+	<algorithm>
+
+1438046677 source:e:\leetcode\leetcode\leetcode\surround_region.cpp
+	<vector>
+	<queue>
+
+1438046744 source:e:\leetcode\leetcode\leetcode\sum_root_leaf.cpp
+	<iostream>
+
+1438046832 source:e:\leetcode\leetcode\leetcode\word_ladder.cpp
+	<string>
+	<unordered_set>
+	<queue>
+
+1438047123 source:e:\leetcode\leetcode\leetcode\valid_palindrome.cpp
+	<string>
+	<algorithm>
+
+1438047184 source:e:\leetcode\leetcode\leetcode\best time to buy and sell stock ii.cpp
+	<vector>
+
+1438047237 source:e:\leetcode\leetcode\leetcode\best time to buy and sell stock.cpp
+	<vector>
+
+1438047292 source:e:\leetcode\leetcode\leetcode\triangle.cpp
+	<vector>
+
+1438047345 source:e:\leetcode\leetcode\leetcode\pascal's triangle ii.cpp
+	<vector>
+
+1438047384 source:e:\leetcode\leetcode\leetcode\pascal's triangle.cpp
+	<vector>
+
+1438047459 source:e:\leetcode\leetcode\leetcode\populating next right pointers in each node.cpp
+	<iostream>
+	<queue>
+
+1438047528 source:e:\leetcode\leetcode\leetcode\flatten binary tree to linked list.cpp
+	<iostream>
+
+1438060361 source:e:\leetcode\leetcode\leetcode\path sum ii.cpp
+	<vector>
+	<iostream>
+
+1438060419 source:e:\leetcode\leetcode\leetcode\path sum.cpp
+	<iostream>
+
+1438060472 source:e:\leetcode\leetcode\leetcode\minimum depth of binary tree.cpp
+	<iostream>
+
+1438060539 source:e:\leetcode\leetcode\leetcode\balanced binary tree.cpp
+	<iostream>
+
+1438060633 source:e:\leetcode\leetcode\leetcode\convert sorted list to binary search tree.cpp
+	<iostream>
+
+1438060704 source:e:\leetcode\leetcode\leetcode\binary tree level order traversal ii.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
+1438060789 source:e:\leetcode\leetcode\leetcode\construct binary tree from inorder and postorder traversal.cpp
+	<iostream>
+	<vector>
+
+1438060865 source:e:\leetcode\leetcode\leetcode\construct binary tree from preorder and inorder traversal.cpp
+	<iostream>
+	<vector>
+
+1438060926 source:e:\leetcode\leetcode\leetcode\maximum depth of binary tree.cpp
+	<iostream>
+
+1438060998 source:e:\leetcode\leetcode\leetcode\binary tree zigzag level order traversal.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
+1438061080 source:e:\leetcode\leetcode\leetcode\binary tree level order traversal.cpp
+	<iostream>
+	<vector>
+
+1438061151 source:e:\leetcode\leetcode\leetcode\symmetric tree.cpp
+	<iostream>
+	<vector>
+
+1438061210 source:e:\leetcode\leetcode\leetcode\same tree.cpp
+	<iostream>
+
+1438061278 source:e:\leetcode\leetcode\leetcode\validate binary search tree.cpp
+	<iostream>
+	<vector>
+
+1438061603 source:e:\leetcode\leetcode\leetcode\binary tree inorder traversal.cpp
+	<iostream>
+	<vector>
+	<stack>
+
+1438061321 source:e:\leetcode\leetcode\leetcode\unique binary search trees.cpp
+	<vector>
+
+1438061885 source:e:\leetcode\leetcode\leetcode\restore ip addresses.cpp
+	<string>
+	<stdlib.h>
+	<vector>
+
+1438061942 source:e:\leetcode\leetcode\leetcode\reverse linked list ii.cpp
+	<iostream>
+
+1438061994 source:e:\leetcode\leetcode\leetcode\decode ways.cpp
+	<string>
+	<stdlib.h>
+
+1438062048 source:e:\leetcode\leetcode\leetcode\subset.cpp
+	<vector>
+	<set>
+	<algorithm>
+
+1438062086 source:e:\leetcode\leetcode\leetcode\gray code.cpp
+	<vector>
+
+1438062192 source:e:\leetcode\leetcode\leetcode\merge sort list.cpp
+	<stdlib.h>
+	<stdio.h>
+	<memory.h>
+
+1438062256 source:e:\leetcode\leetcode\leetcode\partion list.cpp
+	<iostream>
+
+1438062329 source:e:\leetcode\leetcode\leetcode\remove duplicates from sorted list.cpp
+	<iostream>
+	<stdlib.h>
+	<memory.h>
+
+1438062379 source:e:\leetcode\leetcode\leetcode\remove duplicates from sorted list ii.cpp
+	<iostream>
+	<stdlib.h>
+	<memory.h>
+
+1438062420 source:e:\leetcode\leetcode\leetcode\remove duplicates from sorted array ii.cpp
+	<memory.h>
+
+1438062471 source:e:\leetcode\leetcode\leetcode\word search.cpp
+	<vector>
+	<string>
+
+1438062564 source:e:\leetcode\leetcode\leetcode\subsets.cpp
+	<vector>
+	<algorithm>
+
+1438062607 source:e:\leetcode\leetcode\leetcode\combination.cpp
+	<vector>
+
+1438062636 source:e:\leetcode\leetcode\leetcode\sort colors.cpp
+
+1438062678 source:e:\leetcode\leetcode\leetcode\search a 2d matrix.cpp
+	<vector>
+
+1438062729 source:e:\leetcode\leetcode\leetcode\set matrix zeroes.cpp
+	<vector>
+	<unordered_set>
+
+1438062774 source:e:\leetcode\leetcode\leetcode\simplify path.cpp
+	<string>
+	<stack>
+
+1438062838 source:e:\leetcode\leetcode\leetcode\climbing stairs.cpp
+	<stdlib.h>
+	<stdio.h>
+	<memory.h>
+
+1438062879 source:e:\leetcode\leetcode\leetcode\sqrt.cpp
+
+1438062922 source:e:\leetcode\leetcode\leetcode\add binary.cpp
+	<string>
+
+1438062957 source:e:\leetcode\leetcode\leetcode\plus one.cpp
+	<vector>
+
