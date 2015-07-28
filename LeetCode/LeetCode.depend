@@ -5,7 +5,7 @@
 
 1438043640 source:e:\leetcode\leetcode\leetcode\count_prime.cpp
 
-1438043669 source:e:\leetcode\leetcode\leetcode\main.cpp
+1438060211 source:e:\leetcode\leetcode\leetcode\main.cpp
 
 1438043783 source:e:\leetcode\leetcode\leetcode\remove_linkedlist_ele.cpp
 	<iostream>
@@ -177,4 +177,59 @@
 1438047459 source:e:\leetcode\leetcode\leetcode\populating next right pointers in each node.cpp
 	<iostream>
 	<queue>
+
+1438047528 source:e:\leetcode\leetcode\leetcode\flatten binary tree to linked list.cpp
+	<iostream>
+
+1438060361 source:e:\leetcode\leetcode\leetcode\path sum ii.cpp
+	<vector>
+	<iostream>
+
+1438060419 source:e:\leetcode\leetcode\leetcode\path sum.cpp
+	<iostream>
+
+1438060472 source:e:\leetcode\leetcode\leetcode\minimum depth of binary tree.cpp
+	<iostream>
+
+1438060539 source:e:\leetcode\leetcode\leetcode\balanced binary tree.cpp
+	<iostream>
+
+1438060633 source:e:\leetcode\leetcode\leetcode\convert sorted list to binary search tree.cpp
+	<iostream>
+
+1438060704 source:e:\leetcode\leetcode\leetcode\binary tree level order traversal ii.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
+1438060789 source:e:\leetcode\leetcode\leetcode\construct binary tree from inorder and postorder traversal.cpp
+	<iostream>
+	<vector>
+
+1438060865 source:e:\leetcode\leetcode\leetcode\construct binary tree from preorder and inorder traversal.cpp
+	<iostream>
+	<vector>
+
+1438060926 source:e:\leetcode\leetcode\leetcode\maximum depth of binary tree.cpp
+	<iostream>
+
+1438060998 source:e:\leetcode\leetcode\leetcode\binary tree zigzag level order traversal.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
+1438061080 source:e:\leetcode\leetcode\leetcode\binary tree level order traversal.cpp
+	<iostream>
+	<vector>
+
+1438061151 source:e:\leetcode\leetcode\leetcode\symmetric tree.cpp
+	<iostream>
+	<vector>
+
+1438061210 source:e:\leetcode\leetcode\leetcode\same tree.cpp
+	<iostream>
+
+1438061278 source:e:\leetcode\leetcode\leetcode\validate binary search tree.cpp
+	<iostream>
+	<vector>
 
